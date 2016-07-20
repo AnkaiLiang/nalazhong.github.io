@@ -32,6 +32,8 @@
       <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br><a id="more"></a></excerpt></p>
 <p><the rest="" of="" contents="" |="" 余下全文=""></the></p>
 <h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>Introduction to programming, data structures, and algorithm design, using one or more modern imperative language, as chosen by the instructor.<br>Students will learn: basic programming constructs, data types, advanced and balanced search trees; hashing; asymptotic complexity analysis; standard algorithm design techniques; graph algorithms; sort algorithms; and other “classic’ algorithms that serve as examples of design techniques.<br>Students will be given regular programming assignments.</p>
+<h3 id="Student-Comment"><a href="#Student-Comment" class="headerlink" title="Student Comment"></a>Student Comment</h3><p><div class="skillbar clearfix " data-percent="70%"><div class="skillbar-bar" style="background: #e67e22;"><span>A-Percentage</span></div><div class="skill-bar-percent">high</div></div><div class="skillbar clearfix " data-percent="40%"><div class="skillbar-bar" style="background: #3498db;"><span>Quantity of Work</span></div><div class="skill-bar-percent">less</div></div><script src="https://nalazhong.github.io/js/jquery-1.8.3.min.js"></script><script src="https://nalazhong.github.io/js/index.js"></script></p>
+<h2 id="Text-Books"><a href="#Text-Books" class="headerlink" title="Text Books"></a>Text Books</h2><h3 id="Required"><a href="#Required" class="headerlink" title="Required"></a>Required</h3><p>No textbook. Extensive instructor-produced course notes.</p>
 <h2 id="Syllabus"><a href="#Syllabus" class="headerlink" title="Syllabus"></a>Syllabus</h2><p>The syllabus below describes a recent offering of the course, but it may not be completely up to date. For current details about this course, please contact the course coordinator. Course coordinators are listed on the course listing for undergraduate courses and graduate courses.</p>
 <h3 id="Week-by-Week-Schedule"><a href="#Week-by-Week-Schedule" class="headerlink" title="Week-by-Week Schedule"></a>Week-by-Week Schedule</h3><table>
 <thead>
@@ -980,17 +982,6 @@ Email: dpfeffer@stevens.edu<h3 id="Education"><a href="#Education" class="header
     </entry>
     
     <entry>
-      <title><![CDATA[CS-553 Introduction to Text Mining and Statistical Natural Language Processing]]></title>
-      <url>https://nalazhong.github.io/2016/06/28/CS553/</url>
-      <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>你想知道些什么？<a id="more"></a></excerpt></p>
-<p><the rest="" of="" contents="" |="" 余下全文=""></the></p>
-<h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>This course will introduce statistical processing of natural language texts, particularly counting words and phrases in and of themselves as well as associations between them using correlations and other measures.  Goals of text mining include document classification, information retrieval, source authentication, and stylistic categorization.  Typical document sources are newspaper stories, email captures, and Internet pages, as well as collections of non-fiction and fiction such as Federalist Papers and Edgar Allan Poe short stories. </p>
-<h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
-<h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[CS-554 Web Programming II]]></title>
       <url>https://nalazhong.github.io/2016/06/28/CS554/</url>
       <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>你想知道些什么？<a id="more"></a></excerpt></p>
@@ -1007,6 +998,17 @@ Email: dpfeffer@stevens.edu<h3 id="Education"><a href="#Education" class="header
 <p><the rest="" of="" contents="" |="" 余下全文=""></the></p>
 <h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>In software problem areas that require exploratory development efforts, those with complex requirements and high levels of change, agile software development practices are highly effective when deployed in a collaborative, people-centered organizational culture.  This course examines agile methods, including Extreme Programming (XP), Scrum, Lean, Crystal, Dynamic Systems Development Method and Feature-Driven Development to understand how rapid realization of software occurs most effectively.  The ability of agile development teams to rapidly develop high quality, customer-valued software is examined and contrasted with teams following more traditional methodologies that emphasize planning and documentation.  Students will learn agile development principles and techniques covering the entire software development process from problem conception through development, testing and deployment, and will be able to effectively participate in and  manage agile software developments as a result of their successfully completing this course.  Case studies and software development projects are used throughout.Prerequisites:  Programming experience in an object-oriented language, preferably Java.</p>
 <h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>James Rowland</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[CS-553 Introduction to Text Mining and Statistical Natural Language Processing]]></title>
+      <url>https://nalazhong.github.io/2016/06/28/CS553/</url>
+      <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>你想知道些什么？<a id="more"></a></excerpt></p>
+<p><the rest="" of="" contents="" |="" 余下全文=""></the></p>
+<h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>This course will introduce statistical processing of natural language texts, particularly counting words and phrases in and of themselves as well as associations between them using correlations and other measures.  Goals of text mining include document classification, information retrieval, source authentication, and stylistic categorization.  Typical document sources are newspaper stories, email captures, and Internet pages, as well as collections of non-fiction and fiction such as Federalist Papers and Edgar Allan Poe short stories. </p>
+<h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
+<h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
 ]]></content>
     </entry>
     
@@ -1095,6 +1097,21 @@ Email: dpfeffer@stevens.edu<h3 id="Education"><a href="#Education" class="header
     </entry>
     
     <entry>
+      <title><![CDATA[CS-543 Principles of Computer Mediated Entertainment]]></title>
+      <url>https://nalazhong.github.io/2016/06/28/CS543/</url>
+      <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""> </excerpt></p>
+<ul>
+<li>Pre CS-347</li>
+<li>Pre CS-545</li>
+<li>Pre SSW-540<a id="more"></a>
+<the rest="" of="" contents="" |="" 余下全文=""><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3>This course provides an introduction to entertainment-based user interface design and development from a computer science perspective. The course includes: a survey and classification of the types of computer-mediated entertainment (CME); challenges in developing such interfaces; software architectures to support CME; design principles for sketching CME; and software tools to create CME and provide the technical infrastructure necessary to sustain it.</the></li>
+</ul>
+<h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
+<h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[CS-541 Artificial Intelligence]]></title>
       <url>https://nalazhong.github.io/2016/06/28/CS541/</url>
       <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""> </excerpt></p>
@@ -1111,14 +1128,11 @@ Email: dpfeffer@stevens.edu<h3 id="Education"><a href="#Education" class="header
     </entry>
     
     <entry>
-      <title><![CDATA[CS-543 Principles of Computer Mediated Entertainment]]></title>
-      <url>https://nalazhong.github.io/2016/06/28/CS543/</url>
+      <title><![CDATA[CS-539 Real-Time Rendering, Gaming, and Simulations Programming]]></title>
+      <url>https://nalazhong.github.io/2016/06/28/CS539/</url>
       <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""> </excerpt></p>
 <ul>
-<li>Pre CS-347</li>
-<li>Pre CS-545</li>
-<li>Pre SSW-540<a id="more"></a>
-<the rest="" of="" contents="" |="" 余下全文=""><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3>This course provides an introduction to entertainment-based user interface design and development from a computer science perspective. The course includes: a survey and classification of the types of computer-mediated entertainment (CME); challenges in developing such interfaces; software architectures to support CME; design principles for sketching CME; and software tools to create CME and provide the technical infrastructure necessary to sustain it.</the></li>
+<li>Pre CS-537<a id="more"></a><br><the rest="" of="" contents="" |="" 余下全文=""><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3>The course is an introduction to the techniques for designing and building computer games and real-time graphics-oriented simulations. The topics include: 3-D game engine architecture, design, and implementation; simulation, modeling, and object control; character behavior and behaviorbased animation; human-computer interaction; and event-driven simulations.</the></li>
 </ul>
 <h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
 <h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
@@ -1135,18 +1149,6 @@ Email: dpfeffer@stevens.edu<h3 id="Education"><a href="#Education" class="header
 <li>Pre CS-570</li>
 <li>Pre CS-590<a id="more"></a>
 <the rest="" of="" contents="" |="" 余下全文=""><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3>Visual analytics is the combination of data filtering, statistical algorithms, and visual presentation in an interactive visual interface. This course provides an introduction to both information and scientific visualization. Topics include: perception (color, space/order, and depth/occlusion), interaction (navigation, zooming, focus, and context), design studies and evaluation, and data representation (graphs, trees, volumes, and time series). Applications include: software, scientific, financial, and cartographic visualization. Junior, senior, or graduate standing is required.</the></li>
-</ul>
-<h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
-<h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[CS-539 Real-Time Rendering, Gaming, and Simulations Programming]]></title>
-      <url>https://nalazhong.github.io/2016/06/28/CS539/</url>
-      <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""> </excerpt></p>
-<ul>
-<li>Pre CS-537<a id="more"></a><br><the rest="" of="" contents="" |="" 余下全文=""><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3>The course is an introduction to the techniques for designing and building computer games and real-time graphics-oriented simulations. The topics include: 3-D game engine architecture, design, and implementation; simulation, modeling, and object control; character behavior and behaviorbased animation; human-computer interaction; and event-driven simulations.</the></li>
 </ul>
 <h3 id="Teacher"><a href="#Teacher" class="headerlink" title="Teacher"></a>Teacher</h3><p>David Pfeffer<br>ADJUNCT PROFESSOR<br><img src="/images/CS570.jpg" width="400" height="600" title="David Pfeffer"><br><blockquote><footer><strong>David Pfeffer</strong><cite><a href="http://web.stevens.edu/facultyprofile/?id=1692" target="_blank" rel="external">Welcome to Stevens</a></cite></footer></blockquote><br>Email: dpfeffer@stevens.edu</p>
 <h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3><p>Bachelors of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>Honors; Minor in Law and Public Policy<br>Masters of Science in Computer Science<br>Stevens Institute of Technology<br>Hoboken, NJ<br>4.0 GPA; Graduate Certificates in Computer Systems, Databases &amp; Service Oriented Architecture, Distributed Systems, Enterprise Computing, Quantitative Software Engineering, Service Oriented Computing<br>Professional Societies<br>Member of the IEEE Computer Society and ACM.<br>Courses<br>CS 521 TCP/IP Networking<br>CS 570 Introduction to Programming, Data Structures, and Algorithms<br>CS 465 Selected Topics in Computer Science<br>SSW 810 Selected Topics in Systems Centric Software Engineering</p>
